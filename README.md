@@ -47,6 +47,12 @@ For other binary files:
 - Select the appropriate image type ie RGB or GRAYSCALE.
 - NOTE: Be sure to fill in correct values of the encrypted image.
 
+
+## CODE FORMAT (.code)
+### What is **.code** ?
+**.code** is a custom file format created for Dot DeCode. The data is stored in a very simple file format designed for storing vectors and multidimensional matrices. Files of **.code** format have a custom icon.  
+
+
 ## How To Install
 - Installer is available in Dot-DeCode/IDXForm/Setup/Release/setup.exe.
 
