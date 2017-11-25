@@ -56,9 +56,9 @@ For other binary files:
 **.code** is a custom file format created for Dot DeCode. The data is stored in a very simple file format designed for storing vectors and multidimensional matrices. Files of **.code** format have a custom icon.
 
 #### Format Of **.code** Files
-.CODE FILE FORMAT
+**.CODE FILE FORMAT**
 <pre>                 
-[OFFSET]         [TYPE]          [VALUE]         [DESCRIPTION]
+[OFFSET]        [TYPE]            [VALUE]          [DESCRIPTION]
                   
   0000       unsigned Byte          1/0            1 = FOR RGB; 0 = FOR GRAYSCALE;  (IMAGE TYPE) 
   0001       unsigned Byte          1/0            1 = FOR ENCRYPTION; 0 = FOR NORMAL; (PROTECTION MODE)          
