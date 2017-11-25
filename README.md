@@ -53,7 +53,8 @@ For other binary files:
 ## For Source Code
 - Form1 is the Main Interface.
 - Form1.cs is available in Dot-DeCode/IDXForm/IDXForm/Form1.cs.
-- For Encryption 
+- Cryptography.cs is used for Encryption and Decryption.
+- Cryptography.cs is available in 
 
 
 
