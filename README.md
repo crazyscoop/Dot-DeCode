@@ -60,15 +60,15 @@ For other binary files:
                  
 [OFFSET]         [TYPE]          [VALUE]         [DESCRIPTION]
                   
-  0000       unsigned Byte          1/0            1 = FOR RGB; 0 = FOR GRAYSCALE;  (IMAGE TYPE) 
-  0001       unsigned Byte          1/0            1 = FOR ENCRYPTION; 0 = FOR NORMAL; (PROTECTION MODE)          
-  0002       unsigned Byte          ??             Number Of Images;  (Default 1)
-  0003       16 bit Integer         ??             Height Of Encoded Image;
-  0005       16 bit Integer         ??             Width Of Encoded Image;
-  0007       unsigned Byte          ??             Pixel
-  0008       unsigned Byte          ??             Pixel
-  ....       ....                   ..             ....
-  xxxx       unsigned Byte          ??             Pixel
+  0000       unsigned Byte          1/0            1 = FOR RGB; 0 = FOR GRAYSCALE;  (IMAGE TYPE) .
+  0001       unsigned Byte          1/0            1 = FOR ENCRYPTION; 0 = FOR NORMAL; (PROTECTION MODE).          
+  0002       unsigned Byte          ??             Number Of Images;  (Default 1).
+  0003       16 bit Integer         ??             Height Of Encoded Image;.
+  0005       16 bit Integer         ??             Width Of Encoded Image;.
+  0007       unsigned Byte          ??             Pixel.
+  0008       unsigned Byte          ??             Pixel.
+  ....       ....                   ..             .....
+  xxxx       unsigned Byte          ??             Pixel.
                     
 
 
