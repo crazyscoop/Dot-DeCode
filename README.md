@@ -48,7 +48,11 @@ For other binary files:
 - NOTE: Be sure to fill in correct values of the encrypted image.
 
 ## How To Install
-- Installer is available in Setup/Release.
+- Installer is available in Dot-DeCode/IDXForm/Setup/Release/.
+
+## For Source Code
+- Form1 is the Main Interface.
+- Form1.cs is available in 
 
 
 
