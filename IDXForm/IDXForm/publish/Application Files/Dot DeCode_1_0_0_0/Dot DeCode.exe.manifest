@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Dot DeCode.exe" version="1.0.0.0" publicKeyToken="2bc26fe982a752f2" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="DOT.png.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Dot DeCode" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Dot DeCode.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dot DeCode.exe" size="1501144">
+      <assemblyIdentity name="Dot DeCode" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YMSq3JcdoXcXJhrxOPM0h6P28hi+OKafyT57N12EsIg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Dot DeCode.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DOT.png.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>01tT2Zry5jZyr3N0b0hiEz2AuVILEmxtfS71cZYkhYk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DOT2.png.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SU+VuS1Z+NxIKZfGobQ7eZQ0TPleSQgK1miZQU0iwyU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="if_drupal_519199.ico" size="120782">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>A8dU6pcLh9VshMz0x4yYsjhZj9y/LFCxrnxR1RZT/+E=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=AMAZING-VAIO\AMAZING" issuerKeyHash="40d0c8dbc4b88c84e79c8a5bf64fc5a0b70a7232" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>RxTWIT66SE1oFAfjZ2R3dG2MUas3q5EQLQfyANnvqTg=</DigestValue></Reference></SignedInfo><SignatureValue>j0dN9i59lHx+qASxxQDdCL+NPYLZ9Z/itmsTA9wjCqrdsmXOPwNvxH8EqxYA3Dj870xuzg6RAQLAdGlC5Zu50KP5RxEH+04ZagmGnUvv8ijCmJmS778F6SUaL7mCyZUmFt2wVyX7f5BMKfxocFtfuowheV/NGwDYlEsQvk0o7J4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qZeBSJlz+QhjFLcvY2SH9xYEXCCUlNQq5tDmEraCx0U81DCLePLaHLpCh7zSDL4u8CsDI2/u6LRKSjrMkCzL6td9e79ISoJrR+p7n9JRVynJNzSIJPxuqreI/XkibmcxiIKAHTv0Ss/fmbUShl8kmfHpspcDg5atSBJO/aUX88c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="38a9efd900f2072d1091ab37ab518c6d74776467e30714684d48ba3e21d61447" Description="" Url=""><as:assemblyIdentity name="Dot DeCode.exe" version="1.0.0.0" publicKeyToken="2bc26fe982a752f2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AMAZING-VAIO\AMAZING</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5m3dMEOVBh3Os6HiMVoVK9frLoG6+fpFhhEpkoR+5NY=</DigestValue></Reference></SignedInfo><SignatureValue>fhaoEzachAdD+c5lcEb3fv3xm9flrvMwgx8eCElUV2+3AUlZHI8FeXVefyktx2jrUhTDuynUo5QpmI4xUDYTzIj5I5VhCCVgwrk/c8UWuov/+9m0zaqfi+PH5NRbJtylvh6acNUjCUl1TqeT2XU/qmW8fNukdN8WWJe+JeL24yc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qZeBSJlz+QhjFLcvY2SH9xYEXCCUlNQq5tDmEraCx0U81DCLePLaHLpCh7zSDL4u8CsDI2/u6LRKSjrMkCzL6td9e79ISoJrR+p7n9JRVynJNzSIJPxuqreI/XkibmcxiIKAHTv0Ss/fmbUShl8kmfHpspcDg5atSBJO/aUX88c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQdzV5etXIJplIDRap7WQX9jANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAQQBNAEEAWgBJAE4ARwAtAFYAQQBJAE8AXABBAE0AQQBaAEkATgBHMB4XDTE3MTExMjAxMTYwNloXDTE4MTExMjA3MTYwNlowMzExMC8GA1UEAx4oAEEATQBBAFoASQBOAEcALQBWAEEASQBPAFwAQQBNAEEAWgBJAE4ARzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqZeBSJlz+QhjFLcvY2SH9xYEXCCUlNQq5tDmEraCx0U81DCLePLaHLpCh7zSDL4u8CsDI2/u6LRKSjrMkCzL6td9e79ISoJrR+p7n9JRVynJNzSIJPxuqreI/XkibmcxiIKAHTv0Ss/fmbUShl8kmfHpspcDg5atSBJO/aUX88cCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBDBMDRK7nNoL2xl1C7oa9VXbC2THhOG4ogAok672EoO2Ac6I4G+reK0u5yd8/7RbbQLf7yv7jqorql5gVPffIK0Ei+IunM9+NyOhf0nzxhSgz0wHkgwXdTkDIf9RiH1ka4x/zbyizolrzTYdtUZiEGWkrYt8u72HId9ZB/rA4YXA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

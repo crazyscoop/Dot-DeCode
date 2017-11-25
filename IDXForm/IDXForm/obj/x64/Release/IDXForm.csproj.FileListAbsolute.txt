@@ -1,0 +1,15 @@
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\bin\x64\Release\Dot DeCode.exe.config
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\bin\x64\Release\Dot DeCode.exe.manifest
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\bin\x64\Release\Dot DeCode.application
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\bin\x64\Release\Dot DeCode.exe
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\bin\x64\Release\Dot DeCode.pdb
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\IDXForm.Form1.resources
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\IDXForm.Form2.resources
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\IDXForm.Form3.resources
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\IDXForm.Properties.Resources.resources
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\IDXForm.csproj.GenerateResource.Cache
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\Dot DeCode.exe.manifest
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\Dot DeCode.application
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\Dot DeCode.exe
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\Dot DeCode.pdb
+C:\Users\AMAZING\Documents\Visual Studio 2015\Projects\IDXForm\IDXForm\obj\x64\Release\IDXForm.csprojResolveAssemblyReference.cache
