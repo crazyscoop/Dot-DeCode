@@ -55,7 +55,7 @@ For other binary files:
 - Form1.cs is available in Dot-DeCode/IDXForm/IDXForm/Form1.cs.
 - Cryptography.cs is used for Encryption and Decryption.
 - Cryptography.cs is available in Dot-DeCode/IDXForm/IDXForm/Cryptography.cs.
-- Detailed explanation of Cryptography.cs is given on
+- Detailed explanation of Cryptography.cs is given on https://github.com/crazyscoop/Encrypt-and-Decrypt-Data .
 
 
 
