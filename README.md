@@ -1,7 +1,7 @@
 # Dot-DeCode
 
 ## Introduction
-Dot DeCode is a photo encryption tool that can help you maintain the privacy of your personal photos and images. The software supports JPEG, JPG image file formats irrespective of their sizes. The application is easy to use and operate, and even a non-geek user can operate this software without any problems. Dot DeCode supports both encryption and decryption in the same interface. You can easily send emails with an encrypted image, or create self-extracting encrypted image so the receiver can open the encrypted image on any Windows or Mac computer with Dot DeCode Software.
+Dot DeCode is a photo encryption tool that can help you maintain the privacy of your personal photos and images. The software supports JPEG, JPG image file formats irrespective of their sizes. The application is easy to use and operate, and even a non-geek user can operate this software without any problems. Dot DeCode supports both encryption and decryption in the same interface. You can easily send email with an encrypted image, or create a self-extracting encrypted file so that the receiver can open the encrypted image on any Windows or Mac computer with Dot DeCode Software.
 
 Using this software you can:
 - Convert image into binary format.
